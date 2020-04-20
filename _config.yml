@@ -1,14 +1,14 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Mi blog
+description: Artículos de opinión
+author: "Ícaro Obeso Muñiz"
 
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+twitter_username: icaroviedo
+github_username: icaroviedo
+linkedin_username: icaroviedo
 rss: rss
 
 # Minima: show excerpts in the frontpage

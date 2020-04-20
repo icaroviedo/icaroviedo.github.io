@@ -10,13 +10,6 @@ El mapa siguiente sirve para comprobar las posibilidades del blog de insertar un
 <script src="https://gist.github.com/icaroviedo/040debedc36718f19f07637e935c02dc.js"></script>
 
 Aquí inserto un mapa de mi web
-<iframe src="https://icaroviedo.webcindario.com/urban_data/index.html#6/36.308/3.378" width="100%" height="100%"></iframe>
+<iframe src="https://icaroviedo.webcindario.com/urban_data/index.html#6/36.308/3.378" width="600" height="400"></iframe>
 
 
-
-
-
-
-
-
-Aquí 

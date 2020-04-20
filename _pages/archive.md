@@ -1,9 +1,10 @@
 ---
 permalink: /archive
 layout: page
-title: Archivo del blog
+title: Archivo
 ---
 
+Entradas anteriores
 
 <ul>
   {% for post in site.posts %}

@@ -6,4 +6,4 @@ title: About me
 
 More details about me on this page with links to my social media profiles and so on.
 
-![](https://geografia.uniovi.es/image/image_gallery?uuid=6e9fb472-218a-4b19-bca2-3f82f6f53f3f&groupId=1700038&t=1509715149057)
+![](https://avatars2.githubusercontent.com/u/5520106?s=400&u=b63e11b6357abb68e4d14c42997c9ea3a429f1fb&v=4)

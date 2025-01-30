@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Periurbania
+title: Iniciu
 list_title: Llista de artículos
 ---
 

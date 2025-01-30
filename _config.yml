@@ -7,14 +7,12 @@ theme: minima
 
 # Minima social links
 github_username: icaroviedo
-linkedin_username: icaroviedo
-instagram_username: icaroviedo
-google_scholar: VglIyyEAAAAJ&hl=es
-rss: rss
-
 mastodon:
       - username: icaroviedo
         instance: mastodon.social
+linkedin_username: icaroviedo
+instagram_username: icaroviedo
+rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true

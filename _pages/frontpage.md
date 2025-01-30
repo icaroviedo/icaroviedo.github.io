@@ -2,9 +2,9 @@ urb---
 permalink: /
 layout: home
 title: Periurbania
-list_title: Lista de artículos
+list_title: Llista de artículos
 ---
 
-En este blog se publicarán contenidos relacionados con mi labor docente e investigadora: urbanismo, ordenación del territorio, geografía urbana, cartografía, gis, webmapping, etc. 
+Nesti blogue van publicase contenios venceyaos a mi llabor docente e investigadora: urbanismu, ordenación del territoriu, xeografía urbana, cartografía, gis, webmapping, etc. 
 
-Este blog ha sido creado gracias al repositorio [the github project](https://github.com/jsanz/gh-pages-minima-starter). 
+Esti blogue fízose gracies al repositoriu [the github project](https://github.com/jsanz/gh-pages-minima-starter). 

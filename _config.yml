@@ -8,7 +8,7 @@ theme: minima
 # Minima social links
 github_username: icaroviedo
 linkedin_username: icaroviedo
-google_scholar: https://scholar.google.com/citations?user=VglIyyEAAAAJ&hl=es
+google_scholar: VglIyyEAAAAJ&hl=es
 mastodon:
       - username: icaroviedo
         instance: mastodon.social

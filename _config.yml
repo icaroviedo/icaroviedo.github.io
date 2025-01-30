@@ -1,14 +1,14 @@
-title: Mi blog
-description: Geografía
+title: Periurbania
+description: Blogue de Xeografía
 author: "Ícaro Obeso Muñiz"
 
 
 theme: minima
 
 # Minima social links
-twitter_username: icaroviedo
 github_username: icaroviedo
 linkedin_username: icaroviedo
+mastodon_username: https://mastodon.social/@icaroviedo
 rss: rss
 
 # Minima: show excerpts in the frontpage

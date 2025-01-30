@@ -8,8 +8,11 @@ theme: minima
 # Minima social links
 github_username: icaroviedo
 linkedin_username: icaroviedo
-mastodon_username: https://mastodon.social/@icaroviedo
-rss: rss
+google_scholar: https://scholar.google.com/citations?user=VglIyyEAAAAJ&hl=es
+mastodon:
+      - username: icaroviedo
+        instance: mastodon.social
+        rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true

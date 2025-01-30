@@ -15,7 +15,6 @@ rss: rss
 mastodon:
       - username: icaroviedo
         instance: mastodon.social
-        rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true

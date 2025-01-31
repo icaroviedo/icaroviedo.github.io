@@ -1,10 +1,10 @@
 ---
-title: My first post
-date: 2020-03-18
+title: Afayáivos
+date: 2025-02-01
 layout: post
 ---
 
-This is **my very first post**!! I can write
+Esti ye'l **mi primer artículu** nel blogue
 
 * unnumbered
 * fancy

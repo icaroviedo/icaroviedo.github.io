@@ -7,6 +7,7 @@ layout: post
 
 En los últimos años se está extendiendo un modelo de negocio que puede cambiar bastante el paisaje urbano en el futuro. Son las cocinas escondidas y los supermercados fantasmas. En inglés, dark kitchen y ghost supermarket. Varias empresas están implantando estos negocios en bajos comerciales con la finalidad de servir pedidos y comidas a domicilio en un tiempo máximo de quince minutos. Se caracterizan porque no tienen un mostrador ni están pensadas para atender al público, simplemente se cocina a toda velocidad o se corre entre los pasillos con la ayuda de tabletas electrónicas y gps para localizar en las estanterías los productos solicitados. De momento en Asturias, creo, no tenemos ningún supermercado fantasma (cocinas sí), con la nave de Amazon nos basta, pero las vi en ciudades de tamaño similar como Granada y Bilbao, de donde son las fotos.
 
+![](./assets/imgs/20250201_000355.jpg)
 <img src="./assets/imgs/20250201_000355.jpg" width="400px">
 Supermercado fantasma. Granada
 

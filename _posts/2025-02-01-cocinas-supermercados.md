@@ -11,6 +11,6 @@ Supermercado fantasma. Granada
 
 Los cambios en el paisaje dicen bastante de cómo nos comportamos como sociedad. En este caso lo que anuncia esta transformación del paisaje urbano es la velocidad con lo que queremos conseguir todo y como consecuencia indirecta la externalización de la precariedad por nuestra supuesta falta de tiempo. Mientras las calles se vacían de vida, el pequeño comercio se sustituye por una flota de personal de reparto. Para la reflexión y el debate queda comprobar finalmente si esta va ser la única ventaja del modelo de la ciudad de los quince minutos.
 
-<img src=".assets/imgs/Bilbao.png" width="400px">
+<img src="./assets/imgs/Bilbao.png" width="400px">
 
 Supermercado fantasma. Bilbao

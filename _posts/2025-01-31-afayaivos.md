@@ -1,5 +1,5 @@
 ---
-title: Afayaivos
+title: Afayáivos
 date: 2025-01-31
 layout: post
 ---

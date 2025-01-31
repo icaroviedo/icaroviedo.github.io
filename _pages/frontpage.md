@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: Iniciu
-list_title: My blog posts
+list_title: Llista d'artículos
 ---
 
 Nesti blogue publíquense conteníos venceyaos a mi docencia e investigación: urbanismu, ordenación del territoriu, xeografía urbana, cartografía, gis, webmapping, etc. 

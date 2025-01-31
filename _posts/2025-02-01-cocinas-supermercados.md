@@ -1,5 +1,5 @@
 ---
-title: Cocinas escondidas, supermercados fantasma.
+title: Cocines escondies, supermercaos fantasmas.
 date: 2025-02-01
 layout: post
 ---

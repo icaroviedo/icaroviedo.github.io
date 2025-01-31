@@ -1,6 +1,6 @@
 ---
 title: Afayaivos
-date: 2025-02-01
+date: 2025-01-31
 layout: post
 ---
 

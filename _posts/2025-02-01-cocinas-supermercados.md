@@ -9,3 +9,5 @@ Nos caberos años ta espardiéndose un modelu de negociu que puede camudar abond
 Supermercáu pantasma. Granada.
 
 Los cambeos nel paisaxe dicen abondo de cómo nos portamos como sociedá. Nesti casu lo qu'anuncia esti cambiu del paisaxe urbano ye la velocidá cola que queremos consiguir tou y como resultáu indirectu la externalización de la precariedá pola nuesa supuesta falta de tiempu. Mientres les cais pierden vida, el pequeñu comerciu replazase por una flota de personal de repartu. Pa la reflexón y l'alderique queda comprobar finalmente si esta va ser la única ventaya del modelu de la ciudá de los quince minutos.
+
+Cocina escondía. Bilbao

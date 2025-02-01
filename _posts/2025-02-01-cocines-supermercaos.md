@@ -20,6 +20,6 @@ Los cambeos nel paisaxe dicen abondo de cómo nos portamos como sociedá. Nesti 
 
 Mientres les cais pierden vida, el pequeñu comerciu replazase por una flota de personal de repartu. Pa la reflexón y l'alderique queda comprobar finalmente si esta va ser la única ventaya del modelu de la ciudá de los quince minutos.
 
-![Cocina escondía. Uviéu.](/./assets/imgs/Oviedo.png)
+![Cocina escondía. Uviéu.](/./assets/imgs/oviedo.png)
 
 Cocina escondía. Uviéu

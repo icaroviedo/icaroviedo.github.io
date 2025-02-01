@@ -9,13 +9,17 @@ Nos caberos años ta espardiéndose un modelu de negociu que puede camudar abond
 Pel momentu n'Asturies, creo, nun tenemos nengún supermercáu pantasma (cocines sí), cola nave de Amazon ya ye bastante, pero viles en ciudaes de tamañu similar a les nuestres como Granada y Bilbao, d'onde son les semeyes.
 
 ![Supermercáu pantasma. Granada.](/./assets/imgs/Granada.png)
+
 Supermercáu pantasma. Granada.
 
 ![Cocina escondía. Bilbao](/./assets/imgs/Bilbao.png)
+
 Supermercáu pantasma. Bilbao.
 
 Los cambeos nel paisaxe dicen abondo de cómo nos portamos como sociedá. Nesti casu lo qu'anuncia esti cambiu del paisaxe urbano ye la velocidá cola que queremos consiguilo tou y, de pasu, como resultáu indirectu ta la externalización de la precariedá pola nuesa supuesta falta de tiempu. 
 
 Mientres les cais pierden vida, el pequeñu comerciu replazase por una flota de personal de repartu. Pa la reflexón y l'alderique queda comprobar finalmente si esta va ser la única ventaya del modelu de la ciudá de los quince minutos.
 
+![Cocina escondía. Uviéu.](/./assets/imgs/Oviedo.png)
 
+Cocina escondía. Uviéu

@@ -14,4 +14,4 @@ Los cambeos nel paisaxe dicen abondo de cómo nos portamos como sociedá. Nesti 
 
 Mientres les cais pierden vida, el pequeñu comerciu replazase por una flota de personal de repartu. Pa la reflexón y l'alderique queda comprobar finalmente si esta va ser la única ventaya del modelu de la ciudá de los quince minutos.
 
-![Cocina escondía. Bilbao](https://github.com/icaroviedo/icaroviedo.github.io/blob/ee53f2d37eb9dddc270a5ab383cb43f9ea4170a4/assets/imgs/Bilbao.png)
+![Cocina escondía. Bilbao](/./assets/imgs/Bilbao.png)

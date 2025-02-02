@@ -10,3 +10,5 @@ Nesti blogue publíquense conteníos venceyaos a mi docencia e investigación: u
 Los conteníos van ser sobre too d'Asturies, lo que nun quita que delles veces apaezcan temes d'interés más xeneral, a otres escales.
 
 Esti blogue fízose gracies al repositoriu [the github project](https://github.com/jsanz/gh-pages-minima-starter). 
+
+<meta name="fediverse:creator" content="@icaroviedo@mastodon.social">

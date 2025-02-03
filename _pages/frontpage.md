@@ -11,4 +11,4 @@ Los conteníos van ser sobre too d'Asturies, lo que nun quita que delles veces a
 
 Esti blogue fízose gracies al repositoriu [the github project](https://github.com/jsanz/gh-pages-minima-starter). 
 
-<meta name="fediverse:creator" content="@icaroviedo@mastodon.social">
+<meta name="fediverse:creator" content="@icaroviedo@mastodon.social"/>

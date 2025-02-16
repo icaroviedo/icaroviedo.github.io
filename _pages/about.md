@@ -4,7 +4,7 @@ layout: page
 title: Biografía
 ---
 
-Profesor Permanente Llaboral del Departamentu de Xeografía de la Universidá d'Uviéu
+Profesor Permanente Llaboral del Departamentu de Xeografía de la Universidá d'Uviéu.
 
 ![](https://portalinvestigacion.uniovi.es/img/uploaded/686453AF776FD6EAF9892AF0C8AC2BE8.png)
 

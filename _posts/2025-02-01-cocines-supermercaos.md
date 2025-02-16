@@ -4,7 +4,7 @@ date: 2025-02-01
 layout: post
 ---
 
-Nos caberos años ta espardiéndose un modelu de negociu que puede camudar abondo'l paisaxe urbano nel futuru. Son les cocines escondíes y los supermercaos pantasmes. N'inglés, **dark kitchen y ghost supermarket**. Delles empreses tán llantando estos negocios en baxos comerciales cola cuenta de sirvir pidíos y comíes a casa nun tiempu máximu de un cuartu de hora. Caracterícense porque nun tienen un mostrador nin tán pensaes para atender al públicu, a cencielles cocínase a toa velocidá o se cuerre per ente los pasiellos cola ayuda de tabletas electróniques y gps p'alcontrar nes estanteríes los productos solicitaos.
+Nos caberos años ta espardiéndose un modelu de negociu que puede camudar abondo'l paisaxe urbano nel futuru. Son les cocines escondíes y los supermercaos pantasmes. N'inglés, **dark kitchen y ghost supermarket**. Delles empreses tán llantando estos negocios en baxos comerciales cola cuenta de sirvir pidíos y comíes a casa nun tiempu máximu de un cuartu de hora. Caracterícense porque nun tienen un mostrador nin tán pensaes para atender al públicu, a cencielles cocínase a toa velocidá o se cuerre per ente los pasiellos cola ayuda de tabletes electróniques y gps p'alcontrar nes estanteríes los productos solicitaos.
 
 Pel momentu n'Asturies, creo, nun tenemos nengún supermercáu pantasma (cocines sí), cola nave de Amazon ya ye bastante, pero viles en ciudaes de tamañu similar a les nuestres como Granada y Bilbao, d'onde son les semeyes.
 
